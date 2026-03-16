@@ -52,3 +52,5 @@ Today I learn how to change the color of the screen using the composite.fsh file
 
 - with grayscale at 1 :
 	![Image Alt](https://github.com/okalypto/shader-day-1/blob/34b741099eded7d85797425f9f9b664c491fcc0e/Capture%20d'%C3%A9cran%202026-03-17%20003117.png)
+
+Ah et merde a qui lis ça!
