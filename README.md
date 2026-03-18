@@ -1,4 +1,4 @@
-# First shader
+# Shader project
 This will be my repo to create my own Minecraft shader. I will update it pretty much every day.
 
 I'm not starting from scratch; I'm using this base shader : 
