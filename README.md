@@ -78,3 +78,29 @@ I learn how to change the color of the sky, clouds, entities, terrain, and sun (
 
 - with terrain grayscale at 1 (and red entities to match my said) :
 	![Image Alt](https://github.com/okalypto/shader-project/blob/1a98a7511094317b96e9151cfc283f6268eac8cb/images/Capture%20d'%C3%A9cran%202026-03-19%20000558.png)
+
+## day 3
+
+Today, I understand lightmaps and a lot of things around lights
+
+I learn how to change the torches (and all kinds of unnatural light), light to make them change color, disable them, etc. I made the same things with sky reflection (or sky exposure, idk). I also learn how alpha (vec4) (I wasn't sure what it was) can be used. Finally, I make the sun ( and the moon ) exposure (not like external shadows, but just block faces that aren't facing the sun are darker than others).
+
+All that is simplified in the settings where I added 4 new ones. Oh, and lighting style 0 is normal, 1 is to try sky exposure, and 2 is for sun/moon exposure.
+
+- options :
+	![Image Alt]()
+
+- with black sky :
+	![Image Alt]()
+
+- with red sun (and black sky for better look) :
+	![Image Alt]()
+
+- with green clouds :
+	![Image Alt]()
+
+- with red entities :
+	![Image Alt]()
+
+- with terrain grayscale at 1 (and red entities to match my said) :
+	![Image Alt]()
