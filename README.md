@@ -55,7 +55,7 @@ Today I learn how to change the color of the screen using the composite.fsh file
 
 ## day 2
 
-Today I learn where is what, for example, the terrain is separeted with the entities and everything else. With this, I can now change colors on a single part of the game (not on the whole screen like in composite).
+Today I learn where things are, for example, the terrain is separeted with the entities and everything else. With this, I can now change colors on a single part of the game (not on the whole screen like in composite).
 
 I also learn how to make a file give info to others (or some kind), so I can make a function in a file and use it in another one.
 
@@ -88,19 +88,25 @@ I learn how to change the torches (and all kinds of unnatural light), light to m
 All that is simplified in the settings where I added 4 new ones. Oh, and lighting style 0 is normal, 1 is to try sky exposure, and 2 is for sun/moon exposure.
 
 - options :
-	![Image Alt]()
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001341.png)
 
-- with black sky :
-	![Image Alt]()
+- with basic torch light :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001540.png)
 
-- with red sun (and black sky for better look) :
-	![Image Alt]()
+- with torch light green at 1 :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001431.png)
 
-- with green clouds :
-	![Image Alt]()
+- with torch light blue at 1 :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001448.png)
 
-- with red entities :
-	![Image Alt]()
+- with torch light red at 1 :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001505.png)
 
-- with terrain grayscale at 1 (and red entities to match my said) :
-	![Image Alt]()
+- basic game light (at night) (lighting style 0) :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001623.png)
+
+- with sky exposure in blue (lighting style 1) :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001716.png)
+
+- with sun exposure (lighting style 2) (we can see that one face of each block is darker) :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/415523785589d7324c3557accef55726382ef278/images/Capture%20d'%C3%A9cran%202026-03-20%20001728.png)
